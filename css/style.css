@@ -1,0 +1,135 @@
+
+.foot-sec{
+    margin-left: 4%;
+    margin-right: 4%;
+    height:140px;
+    width:92%;padding-bottom: 10px;
+    background-color: #fff7f1;
+    margin-top: 130px;
+    position: absolute;
+    font-size: larger;
+    font-weight: lighter;
+
+}
+
+.top-sec{
+  margin-left: 6%;
+  margin-right: 4%;
+  height:140px;
+  width:90%;
+  background-color: #011640;
+    position: absolute;
+  font-size: larger;
+  font-weight: lighter;
+}
+
+.sec-btn{
+    background-color: #011640;
+    color: whitesmoke;
+    font-weight:lighter;
+    font-size: medium;
+    width:130px;
+    height:35px;
+    border-style: none;
+    margin-left: 8px;
+}
+
+.sec-input{
+    background-color: #fff7f1;
+    border-width:thin;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    width:8cm;
+    margin-top: 0;
+    margin-bottom:2cm;
+    font-size: medium;
+    height:35px;
+    padding:10px;
+    border-color:#cecccf;
+    color:#cecccf;
+}
+
+.side{
+    height:60px;
+     width:50px;
+     background-color: #ffd6d6;
+     font-size:xx-large;
+     position:relative;
+     margin-left:96.1%;
+}
+.left {
+  height:120px;
+   width:130px;
+   background-color: #ffd6d6;
+   margin-left:42.8%;
+}
+
+a{
+   text-decoration: underline;
+}
+.img-hero{
+position: absolute;
+width:79vw;
+height:36vw;
+left: 20%;
+bottom: 23% !important;
+overflow: hidden;
+
+}
+.top-sec{
+
+   bottom:4px;
+}
+
+.mid-sec{
+    padding-top:15vw ;
+    background-color: #011640;
+    color: honeydew;
+    margin-bottom: 30vw;
+    /* margin-top: 5vw; */
+}
+
+.div1{
+    background-color: #ffffff;
+    width:27vw;
+    height:22vw;
+    color:black;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+
+}
+
+.dc1{
+    padding-top:6vw;
+    position: absolute;
+    margin-left: 5%;
+    top:176vw ;
+}
+
+.dc2{
+    padding-top:6vw;
+    position: absolute;
+    margin-left:36%;
+    top:176vw ;
+
+}
+
+.dc3{
+    padding-top:6vw;
+    position: absolute;
+    margin-left:67%;
+    top:176vw ;
+
+
+}
+
+.bot-sec{
+    background-color:white;
+    width:90%;
+    margin-left:1%;
+    margin-bottom: 5vw;
+    height:380px;
+    position: absolute;
+    margin-top: 40%;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 20px 0 rgba(0, 0, 0, 0.15);
+
+}
